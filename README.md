@@ -11,3 +11,4 @@
 
 ## Lab Feature Selection
 [Notebook](lab3_feature_selection/Feature_selection.ipynb)
+[PDF](lab3_feature_selection/Feature_selection.pdf)
