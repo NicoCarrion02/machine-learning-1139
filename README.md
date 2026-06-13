@@ -17,3 +17,13 @@
 [Notebook](lab3_feature_selection/Feature_selection.ipynb)
 
 [PDF](lab3_feature_selection/Feature_selection.pdf)
+
+## Lab EXTRA Hello World Neural Nets
+[Notebook](lab4_hello_world_neural_networks/01_Hello_World_Neural_Networks_[PYTORCH].ipynb)
+
+[PDF](lab4_hello_world_neural_networks/01_Hello_World_Neural_Networks_[PYTORCH].pdf)
+
+## Lab Neural Nets Pytorch Lightning
+[Notebook](lab5_neural_nets_pytorch_lightning/FMNIST_Callbacks_Data_Modules_Data_Loaders_[PYTORCH_LIGHTNING].ipynb)
+
+[PDF](lab5_neural_nets_pytorch_lightning/FMNIST_Callbacks_Data_Modules_Data_Loaders_[PYTORCH_LIGHTNING].pdf)
