@@ -3,3 +3,6 @@ data/
 lightning_logs/
 torchlogs/
 .idea/
+lab6_lab_decision_trees/AutogluonModels/
+lab6_lab_decision_trees/heart.csv
+lab6_lab_decision_trees/deeplearning.mplstyle
