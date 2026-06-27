@@ -7,3 +7,4 @@ lab6_lab_decision_trees/AutogluonModels/
 lab6_lab_decision_trees/heart.csv
 lab6_lab_decision_trees/deeplearning.mplstyle
 .DS_Store
+.vscode/
