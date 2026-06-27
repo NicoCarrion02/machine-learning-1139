@@ -27,3 +27,13 @@
 [Notebook](lab5_neural_nets_pytorch_lightning/FMNIST_Callbacks_Data_Modules_Data_Loaders_[PYTORCH_LIGHTNING].ipynb)
 
 [PDF](lab5_neural_nets_pytorch_lightning/FMNIST_Callbacks_Data_Modules_Data_Loaders_[PYTORCH_LIGHTNING].pdf)
+
+## Lab Decision Trees
+[Notebook](lab6_lab_decision_trees/Decision_Trees,_Random_Forest,_Stacked_Ensembles,_XGBoost,_AutoGluon_v3.ipynb)
+
+[PDF](lab6_lab_decision_trees/Decision_Trees,_Random_Forest,_Stacked_Ensembles,_XGBoost,_AutoGluon_v3.pdf)
+
+## Lab KNN
+[Notebook](lab7_KNN/Planteamiento_Optimización_de_hiperparámetros_para_Clasificación_Churn_Telecomunicaciones_(con_y_sin_PCA)_(KNN)_v2.ipynb)
+
+[PDF](lab7_KNN/Planteamiento_Optimización_de_hiperparámetros_para_Clasificación_Churn_Telecomunicaciones_(con_y_sin_PCA)_(KNN)_v2.pdf)
